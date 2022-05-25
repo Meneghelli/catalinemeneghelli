@@ -1,5 +1,5 @@
 ## Oii!! Eu sou a Cataline Meneghelli ✨
-<div>
+
 <p>
   ⚡ Tenho 26 anos 
 </p> 
@@ -40,6 +40,7 @@
  <a href="https://www.instagram.com/cataline_meneghelli/" target="blank">
   <img align="start" alt="Pramod's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
  </a>
+ </p>
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meneghelli&hide=TeX&layout=compact)
   
