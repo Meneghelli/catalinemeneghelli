@@ -5,7 +5,7 @@
 </p> 
   
 <p>
-  📫 Sou de Blumenau, SC  
+  📫 Blumenau, SC  
 </p>
 
 <p>
