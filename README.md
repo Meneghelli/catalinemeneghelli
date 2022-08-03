@@ -9,15 +9,11 @@
 </p>
 
 <p>
-  📚 Atualmente estou focada apenas em meus estudos em Tecnologia
-</p>
-
-<p>
   🚀 Estou aprendendo Desenvolvimento Web pela plataforma da Rocketseat
 </p>
 
 <p>
-  🤓 Gostaria muito de iniciar na área para poder colocar em prática tudo que venho aprendendo
+  🤓 Pretendo me aprofundar mais em UI/UX Designer
  </p>
 
 
