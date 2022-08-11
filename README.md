@@ -9,12 +9,8 @@
 </p>
 
 <p>
-  🚀 Estou aprendendo Desenvolvimento Web pela plataforma da Rocketseat
+  🚀 Estou estudando Desenvolvimento Web pela plataforma da Rocketseat
 </p>
-
-<p>
-  🤓 Pretendo me aprofundar mais em UI/UX Designer
- </p>
 
 
 ##
